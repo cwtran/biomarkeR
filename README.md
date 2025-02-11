@@ -1,2 +1,2 @@
 # biomarkeR
-Useful functions for biomarker analysis
+Useful, portable R functions for biomarker analysis
