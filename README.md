@@ -1,2 +1,2 @@
 # biomarkeR
-useful functions for biomarker analysis
+Useful functions for biomarker analysis
